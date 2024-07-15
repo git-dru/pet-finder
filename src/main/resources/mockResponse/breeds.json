@@ -1,0 +1,12 @@
+{
+    "breeds": [
+        {
+            "name": "Affenpinscher",
+            "_links": {
+                "type": {
+                    "href": "/v2/types/dog"
+                }
+            }
+        }
+    ]
+}
